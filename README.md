@@ -1,4 +1,7 @@
 # 2021winter
+
+**The yellow mark indicates completion on schedule.**
+
 **Action Solves Anxiety**
 
 Record daily study during winter holiday.
@@ -6,7 +9,8 @@ Record daily study during winter holiday.
 #### Paper target
 
 - Complete the HSI thesis and submit it.
-  - Completion HSI code before 1.21.
+  - ==Completion HSI code before 1.21.==  
+  - Improved Bert vulnerability to improve accuracy before 1.23.                                                                                  
 - Complete and submit the recommendation system paper.
 
 #### Enlish target
@@ -18,5 +22,8 @@ Record daily study during winter holiday.
 
 #### Cultivation target
 
-- Learn Git Operations.
+- ==Learn Git Operations.==
 - Learn to do multithreading and concurrency in C ++.
+
+
+
