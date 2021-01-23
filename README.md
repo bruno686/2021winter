@@ -9,8 +9,9 @@ Record daily study during winter holiday.
 #### Paper target
 
 - Complete the HSI thesis and submit it.
-  - ==Completion HSI code before 1.21.==  
-  - Improved Bert vulnerability to improve accuracy before 1.23.                                                                                  
+  - Completion HSI code before 1.21.  （✔）
+  - Improved Bert vulnerability to improve accuracy before 1.23. （✔）
+  - Sort out the existing usable code and upload it to GitHub. The three data sets were handled well, and all the comparative experiments were done and recorded before 1.25.                                                                                 
 - Complete and submit the recommendation system paper.
 
 #### Enlish target
