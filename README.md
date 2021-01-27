@@ -18,6 +18,7 @@ Record daily study during winter holiday.
 
 - The reading score is stable above 28.
 - The listening score is stable above 25.
+  - Dictation of CET-4 words（1，2，3，4）on 1.27
 - The composition score is stable above 25.
 - The spoken English score is more than 25.
 
