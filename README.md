@@ -30,8 +30,8 @@ Record daily study during winter holiday.
 - Learn to do multithreading and concurrency in C ++.
   - C++ thread writing before 1.27.（×）Because It's not reasonable to make plans.
   - C++远征之起航篇 on 1.27. （乄）
-  - C++远征之离港篇 on 1.28.
-  - C++远征之封装篇（上）
+  - C++远征之离港篇 on 1.28. （✔）
+  - C++远征之封装篇（上）on 1.30. （×）
   - C++远征之封装篇（下）
   - C++远征之继承篇
   - C++远征之多态篇
