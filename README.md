@@ -14,7 +14,13 @@ Record daily study during winter holiday.
   - Sort out the existing usable code and upload it to GitHub. The three data sets were handled well, and all the comparative experiments were done and recorded before 1.25.  （×）Because of the headache，But the Kappa OA and AA coefficients are calculated. I went through the whole process.        
   - all the comparative experiments were done and recorded before 2.3. （✔）
   - Complete writing introduce and related work before 2.6.   （乄）
-  - ``Revised plan`` (significantly important) .                                                              
+  - ``Revised plan`` (significantly important) .  
+  - Introduction before 2.8.
+  - Related work before 2.9.
+  - Proposed approach before 2.12.
+  - Datasets and experimental steup before 2.13
+  - Experimental results and analysis before 2.14
+  - Conclusion  before 2.15                                                      
 - Complete and submit the recommendation system paper.
 
 #### Enlish target
