@@ -15,8 +15,8 @@ Record daily study during winter holiday.
   - all the comparative experiments were done and recorded before 2.3. （✔）
   - Complete writing introduce and related work before 2.6.   （乄）
   - ``Revised plan`` (significantly important) .  
-  - Introduction before 2.8.
-  - Related work before 2.9.
+  - Introduction before 2.8.（✔）
+  - Related work before 2.9.（乄）
   - Proposed approach before 2.12.
   - Datasets and experimental steup before 2.13
   - Experimental results and analysis before 2.14
@@ -50,5 +50,6 @@ Record daily study during winter holiday.
   - C++远征之模板篇
     
 
+- Learn fundermental math
 
 
