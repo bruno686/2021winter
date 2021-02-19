@@ -1,7 +1,5 @@
 # 2021winter
 
-**The yellow mark indicates completion on schedule.**
-
 **Action Solves Anxiety**
 
 Record daily study during winter holiday.
@@ -15,13 +13,21 @@ Record daily study during winter holiday.
   - all the comparative experiments were done and recorded before 2.3. （✔）
   - Complete writing introduce and related work before 2.6.   （乄）
   - ``Revised plan`` (significantly important) .  
-  - Introduction before 2.8.（✔）
-  - Related work before 2.9.（乄）
-  - Proposed approach before 2.12.
-  - Datasets and experimental steup before 2.13
-  - Experimental results and analysis before 2.14
-  - Conclusion  before 2.15                                                      
+  - Introduction to the first edition before 2.8.（✔）
+  - Related to the first edition work before 2.9.（乄）
+  - Proposed to the first edition approach before 2.12.（✔）
+  - Datasets and experimental ste up to the first edition before 2.13（✔）
+  - Experimental results and analysis before 2.14（×）Because the paper was rejected, the conclusion was not written.
+  - Conclusion  before 2.15（×）     
+  - Improve Transformer with two convolutions instead of Dense on2.16 （✔）
+  - The second edition of Introduce was completed on 2.17 （✔）
+  - After the completion of the second edition of Related Work and Abstract, we began to plan the deep learning recommendation system on 2.18 （✔）                                  
 - Complete and submit the recommendation system paper.
+  - Find out what the common experimental data sets are and what kinds of data sets are needed. What are the variables in the data set. before 2.22.
+  - Evaluate the experimental results, what functions are needed. before 2.24.
+  - What work needs to be done in feature engineering, such as whether dimensionality reduction is needed before 2.26.
+  - Make a general recommendation based on deep learning. before 3.5.
+  - Read papers to understand what a context is, and select one to incorporate into your proposed deep learning model.  before 3.8. 
 
 #### Enlish target
 
@@ -48,8 +54,11 @@ Record daily study during winter holiday.
   - C++远征之继承篇
   - C++远征之多态篇
   - C++远征之模板篇
-    
-
+  
 - Learn fundermental math
-
+- read many books
+  - 深度学习进阶-自然语言处理
+  - 深度学习入门
+  - python深度学习
+  - 深度学习推荐系统
 
