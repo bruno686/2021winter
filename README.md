@@ -21,7 +21,9 @@ Record daily study during winter holiday.
   - Conclusion  before 2.15（×）     
   - Improve Transformer with two convolutions instead of Dense on2.16 （✔）
   - The second edition of Introduce was completed on 2.17 （✔）
-  - After the completion of the second edition of Related Work and Abstract, we began to plan the deep learning recommendation system on 2.18 （✔）                                  
+  - After the completion of the second edition of Related Work and Abstract, we began to plan the deep learning recommendation system on 2.18 （✔）
+  - Revise abstract ,introdution ,related work and the proposed approach was completed before 2.20
+  - The experiment analysis was completed before 2.21.                                  
 - Complete and submit the recommendation system paper.
   - Find out what the common experimental data sets are and what kinds of data sets are needed. What are the variables in the data set. before 2.22.
   - Evaluate the experimental results, what functions are needed. before 2.24.
