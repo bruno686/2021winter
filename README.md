@@ -24,8 +24,14 @@ Record daily study during winter holiday.
   - After the completion of the second edition of Related Work and Abstract, we began to plan the deep learning recommendation system on 2.18 （✔）
   - Revise abstract ,introdution ,related work and the proposed approach was completed before 2.20（✔）
   - The experiment analysis was completed before 2.21. （✔）
-  - The Chinese version of the paper translation completed 2.28.（✔）                                
+  - The Chinese version of the paper translation completed 2.28.（✔）    
+  - The english version of the paper is completed on 3.4                      
 - Complete and submit the recommendation system paper.
+  - Read 《Recommendation System Practice Book》before 3.7.
+  - Practice basic code and code that incorporates contextual information before 3.12.
+  - Read papers about contextual inforamtion and Implement the recommendation system deep learning code before 3.22. 
+  - Start writing a paper on 3.23.
+  - Submit a paper before 4.1.
 
 #### Enlish target
 
@@ -38,8 +44,10 @@ Record daily study during winter holiday.
   - Review the words （5，6，7，8），Dictation of CET-4 words（9，10，11，12）on 2.5.（✔）
   - Review the words （9，10，11，12），Dictation of CET-4 words（13，14，15，16）and Listen the words "geology" and "zoology" on 2.6.（乄）
 - The composition score is stable above 25.
-  - The first composition is completed on 3.1
+  - The first composition is completed on 3.1 （✔）
 - The spoken English score is more than 25.
+- ``Daily tasks``
+  - one composition，listening three essay. 
 
 #### Cultivation target
 
